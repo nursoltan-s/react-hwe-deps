@@ -1,9 +1,8 @@
 {
-  "name": "@pistoiahelm/react-hwe-deps",
+  "name": "@nursoltan-s/react-hwe-deps",
   "version": "1.5.4",
   "description": "Dependencies for react-hwe-editor.",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-  "repository": "https://github.com/PistoiaHELM/react-hwe-deps",
+  "repository": "https://github.com/nursoltan-s/react-hwe-deps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,8 +11,7 @@
     "hwe",
     "helm"
   ],
-  "author": "Josh Ren",
-  "license": "ISC",
-  "dependencies": {
-  }
+  "author": "Nursoltan Saipolda",
+  "license": "MIT",
+  "dependencies": {}
 }
